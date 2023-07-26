@@ -3,3 +3,4 @@
 *.hdf5
 condor_logs/
 wave_gen*
+.pre-commit-config.yaml
